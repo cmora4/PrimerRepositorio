@@ -88,3 +88,5 @@ FROM asignaturas;
 -- 3. Obtener el nombre de los estudiantes seguido del nº de asignaturas que tiene cada uno
 -- "Juan Pérez tiene 3 asignaturas"
 
+----hola fea
+
