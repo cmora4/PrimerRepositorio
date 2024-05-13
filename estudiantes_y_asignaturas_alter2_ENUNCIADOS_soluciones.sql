@@ -1,6 +1,6 @@
-CREATE DATABASE estudiantes_y_asignaturas_alter_2;
+CREATE DATABASE estudiantes_y_asignaturas_alter_3;
 GO
-USE estudiantes_y_asignaturas_alter_2;
+USE estudiantes_y_asignaturas_alter_3;
 
 ---------------------------------------
 SELECT * FROM estudiantes
